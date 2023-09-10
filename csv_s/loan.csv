@@ -1,0 +1,11 @@
+id,customer_id,total_interest_rate,montly_payment,total_months,total_months_paid,object
+1,8,10,1200,12,4,tv
+2,6,8,40000,96,48,house
+3,13,6,23000,48,12,car
+4,3,11,14000,36,24,car
+5,9,6,36000,96,5,house
+6,5,15,27722,96,42,business
+7,14,10,35954,24,20,flat
+8,7,12,21429,96,50,business
+9,15,14,23068,48,12,flat
+10,11,13,2500,25,10,business

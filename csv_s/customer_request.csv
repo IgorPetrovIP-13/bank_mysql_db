@@ -1,0 +1,16 @@
+id,customer_id,bank_branch_id,application_time,purpose,short_description
+1,15,1,2022-12-26 14:48:54,payment problem,can't pay with my card
+2,11,3,2022-05-26 00:30:23,new card,want to create new card
+3,15,2,2022-07-23 15:22:03,receipt problem,transfer didn't come in time
+4,1,5,2022-05-19 19:53:35,consultation,want consultation on registration
+5,7,6,2022-10-11 18:45:20,consultation,want consultation on registration
+6,4,1,2022-07-06 04:17:32,payment problem,can't pay with my card
+7,7,4,2023-01-15 13:12:06,app problem, app doesn't work
+8,11,2,2022-05-06 12:57:43,app problem, app doesn't work
+9,4,4,2022-07-30 01:33:41,payment problem,can't pay with my card
+10,3,5,2022-10-26 04:05:44,receipt problem,transfer didn't come in time
+11,4,5,2022-09-03 11:03:14,new card,want to create new card
+12,8,1,2022-09-23 09:01:42,consultation,want consultation on registration
+13,7,6,2022-05-17 04:08:17,payment problem,can't pay with my card
+14,15,4,2022-12-02 04:08:54,caching out,want to take cache
+15,9,2,2022-11-29 20:45:53,payment problem,can't pay with my card
